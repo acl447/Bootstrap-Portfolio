@@ -80,7 +80,7 @@ font-weight: bold;
 
 /* Text Not in Headings */
 
- .text, 
+ .text
  {
 
 
@@ -129,62 +129,16 @@ font-weight: normal;
 } 
 
 
-
-
-
-
-
-/* Portfolio Content */
-
-/*.portfolio-content {
-
-    margin-top: 0;
-    margin-bottom: 25px;
-    padding-top: 0;
-    border: none;
-    height: 875px;
-    position: relative;
-} */
-
-/* Portfolio Header */
-
-/*#portfolio-header {
-
-    padding-top: 0;
-    color: #4aaaa5;
-    padding: 20px;
-    font-size: 25px;
-    font-weight: bold;
-    margin-top: 15px;
-} */
-
-/*#portfolio-header::after {
-
-    content: "";
-    display: block;
-    margin: 0 auto;
-    width: 100%;
-    padding-top: 20px;
-    border-bottom: 2px solid #ddd;
-
-
-} */
-
 /* Portfolio Images and Text Containers */
-
-.img-fluid {
-
-
-    max-width: 100%;
-    height: auto;
-}
 
 .text-block {
 
    
     text-align: center;
-    bottom: 15%;
-    left: 15%;
+    width: 40%;
+    height: 35%;
+    bottom: 5%;
+    left: 10%;
     
    
     background: #4aaaa5;
@@ -197,80 +151,32 @@ font-weight: normal;
  
 /* Portfolio Images */
 
-/*#img1 {
+.img-fluid {
 
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 0;
-    width: 250px;
-    height: 200px;
-    float: left;
-    padding: 0;
-} 
-
-#img2 {
-
-    float: left;
-    width: 250px;
-    height: 200px;
-    margin-left: 65px;
-    margin-right: 0;
-    margin-bottom: 0;
-    padding: 0;
+overflow: hidden;
+width: 50%;
 
 }
 
-
-
-#img3 {
-
-    
-    margin-top: 0;
-    margin-left: 10px;
-    margin-bottom: 0;
-    padding: 0;
-    width: 250px;
-    height: 200px;
-    position: absolute;
-    right: 920px;
-    top: 440px;
-}
-
-#img4 {
-
-    margin-top: 0;
-    margin-left: 10px;
-    width: 250px;
-    height: 200px;
-    position: absolute;
-    right: 585px;
-    top: 440px;
-    padding: 0;
-}
-
-#img5 {
-
-    
-    margin-top: 0;
-    margin-left: 0;
-    width: 250px;
-    height: 200px;
-    position: absolute;
-    right: 920px;
-    bottom: 120px;
-    padding: 0;
-    float: left;
-
-
-} */
 
 /* Portfolio Image Labels */
 
 .label {
     line-height: 50px;
     text-align: center;
+    
+    
 }
 
+a, .label {
+
+    color: white;
+}
+
+a:hover {
+
+   color:blue;
+}
 
 
 
