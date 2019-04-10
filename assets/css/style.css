@@ -153,15 +153,17 @@ font-weight: normal;
 .img-fluid {
 
 overflow: hidden;
-width: 50%;
+
 
 }
 
 /* Portfolio Image Labels */
 
 .label {
-    line-height: 50px;
+    line-height: 1.5;
     text-align: center;
+    
+    
     
     
 }
