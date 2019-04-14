@@ -4,6 +4,7 @@ A portfolio of apps and websites that I have coded, for your viewing pleasure. I
 
 Features an About Me page with a short bio and photo, a contact page with contact form, and portfolio page with links to all projects.
 
+Uses HTML5, CSS and Bootstrap.
 
 Link to deployed project on GitHub Pages: https://acl447.github.io/Bootstrap-Portfolio/
 
