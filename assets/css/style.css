@@ -178,6 +178,14 @@ a:hover {
    color:blue;
 }
 
+/* Portfolio Project Descriptions */
+
+.description {
+
+
+    font-size: 15px;
+}
+
 
 
 
@@ -212,11 +220,7 @@ body {
     background: #fff;
     
     
-    
-    
-     
-    
-    
+
     
     
     } 
